@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UNS-ToDoList</string>
+    <string name="order_by">Ordenar por:</string>
+    <string name="order_id">Fecha</string>
+    <string name="materia">Materia</string>
+    <string name="titulo">Titulo</string>
+    <string name="nota">Nota</string>
+    <string name="separador">-</string>
+    <string name="view">Vista</string>
+    <string name="borrar">Borrar</string>
+
+</resources>
